@@ -1,4 +1,4 @@
-👨‍🏫 ETutor - Your Personal Study Companion
+👨‍🏫 [ETutor](https://t.me/@IraqETutorBot?start=source_gh) - Your Personal Study Companion
 
 📈 For better marks, always with you.
 
