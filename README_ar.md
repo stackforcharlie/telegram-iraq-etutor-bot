@@ -1,4 +1,4 @@
-[English](README.md) | [العربية](README_ar.md)
+[العربية](README_ar.md)|[English](README.md) 
 
 👨‍🏫 [إي تيوتر](https://t.me/IraqETutorBot?start=source_gh) - رفيقك الدراسي الشخصي
 
